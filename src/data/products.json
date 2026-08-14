@@ -1,0 +1,1269 @@
+{
+ "flashSale": [
+  {
+   "discount": "-15%",
+   "img": "c2yfzosncqole0vlfmgx.jpg",
+   "imgAlt": "suvckrl8cw5oxztf00ek.jpg",
+   "name": "HP EliteBook 1040 G8 x360 Intel Core i7 11th Gen 16GB RAM 512GB SSD 14 Inches Touchscreen Display",
+   "reviews": 95,
+   "price": "KES 60,000"
+  },
+  {
+   "discount": "-15%",
+   "img": "suvckrl8cw5oxztf00ek.jpg",
+   "imgAlt": "t4cmvgcdzcqqzcgngnay.jpg",
+   "name": "HP EliteBook 840 G4 i7 7th Gen 8GB 256GB Non-Touch Laptop",
+   "reviews": 95,
+   "price": "KES 28,500"
+  },
+  {
+   "discount": "-15%",
+   "img": "t4cmvgcdzcqqzcgngnay.jpg",
+   "imgAlt": "fllxwg4ymefoilgd2qhc.jpg",
+   "name": "CURREN GENTS WATCH #8450",
+   "reviews": 95,
+   "price": "KES 2,500"
+  },
+  {
+   "discount": "-15%",
+   "img": "fllxwg4ymefoilgd2qhc.jpg",
+   "imgAlt": "doojhxa51mg4ju5fjb9g.jpg",
+   "name": "HP 230W, 19.5V Big Pin 11.8A 7.4*5.0mm charger",
+   "reviews": 95,
+   "price": "KES 7,500"
+  },
+  {
+   "discount": "-15%",
+   "img": "doojhxa51mg4ju5fjb9g.jpg",
+   "imgAlt": "dpqwxc6ik5eurtogwzdg.jpg",
+   "name": "Lenovo ThinkPad T480s i5 8th Gen 8GB 256GB SSD Touch 2gb graphics",
+   "reviews": 95,
+   "price": "KES 31,000"
+  },
+  {
+   "discount": "-15%",
+   "img": "dpqwxc6ik5eurtogwzdg.jpg",
+   "imgAlt": "gtvkqg0ugmqmxbmwld3v.jpg",
+   "name": "Lenovo ThinkPad T490s i7 8th Gen 16GB 512GB SSD Non-Touch",
+   "reviews": 95,
+   "price": "KES 30,600"
+  },
+  {
+   "img": "gtvkqg0ugmqmxbmwld3v.jpg",
+   "imgAlt": "sorbngm3togzmno5edhc.jpg",
+   "name": "Original Lenovo 20V 4.75A TypeC Charger",
+   "reviews": 95,
+   "price": "KES 7,000"
+  },
+  {
+   "img": "sorbngm3togzmno5edhc.jpg",
+   "imgAlt": "",
+   "name": "Lenovo ThinkPad X13 i7 10th Gen 16GB 512GB Non-Touch",
+   "reviews": 95,
+   "price": "KES 38,000"
+  }
+ ],
+ "categories": [
+  {
+   "title": "PC Accessories",
+   "cards": [
+    {
+     "discount": "-31%",
+     "img": "lue64g66z69cf9fcoszc.jpg",
+     "imgAlt": "lmzpzgdrxugnvh0fx3qe.jpg",
+     "name": "Original Lenovo Usb Type C Charger 20V, 45W, 2.25A",
+     "reviews": 0,
+     "price": "KES 4,500"
+    },
+    {
+     "discount": "-18%",
+     "img": "q28uxlkrrkuv6mte5umw.jpg",
+     "imgAlt": "vxuboanzx87ai8uw83tu.jpg",
+     "name": "Original Lenovo 20V 2.25A 45W small pin Charger",
+     "reviews": 0,
+     "price": "KES 4,500"
+    },
+    {
+     "discount": "-10%",
+     "img": "lwbgp1dhbcmbjca6kfrk.jpg",
+     "imgAlt": "lb6td8mfbschhxowhyxa.jpg",
+     "name": "Original Lenovo yoga 20V 3.25A 65W Charger",
+     "reviews": 0,
+     "price": "KES 4,500"
+    },
+    {
+     "discount": "-29%",
+     "img": "tcm30cen3analkfbhhxk.jpg",
+     "imgAlt": "whfoe8lpjng7edktpyyz.jpg",
+     "name": "Original Lenovo 20V 3.25A 4.0*1.7mm 65W Small pin Charger",
+     "reviews": 0,
+     "price": "KES 2,500"
+    }
+   ]
+  },
+  {
+   "title": "All-in-Ones",
+   "cards": [
+    {
+     "discount": "-3%",
+     "img": "dkujmchw6mhse3sjloce.png",
+     "imgAlt": "rbg7aqnxwxw53v9q7vjo.jpg",
+     "name": "HP All-in-One 24-cr1073nh PC Intel Core Ultra 7 155U 8GB RAM 512GB SSD 23.8&quot; FHD IPS touchscreen Anti-Glare Display HP True Vision 720p HD Tilt Privacy Camera 2W Speakers HP 125 Wired Keyboard and Mouse Combo",
+     "reviews": 0,
+     "price": "KES 160,000"
+    },
+    {
+     "discount": "-19%",
+     "img": "rbg7aqnxwxw53v9q7vjo.jpg",
+     "imgAlt": "mg66kbxslyaltqzhozga.jpg",
+     "name": "Lenovo V310z AIO 19.5&quot; HD Display 7th Gen Intel Core i3 8GB RAM 1TB HDD DVDRW DOS Wired Keyboard + Mouse",
+     "reviews": 0,
+     "price": "KES 17,000"
+    },
+    {
+     "discount": "-7%",
+     "img": "mg66kbxslyaltqzhozga.jpg",
+     "imgAlt": "pqvofb25puq2j5dhiayg.jpg",
+     "name": "Lenovo ThinkCentre M920Q Tiny Business Desktop Intel Core i7-8700T 8GB RAM 500GB HDD Intel HD Graphics 630 Windows 10 Pro Plus Lenovo ThinkCentre TIO24 24″ Full HD Display",
+     "reviews": 0,
+     "price": "KES 40,000"
+    },
+    {
+     "discount": "-7%",
+     "img": "pqvofb25puq2j5dhiayg.jpg",
+     "imgAlt": "",
+     "name": "HP ProOne 440 G6 All-in-One 10th Gen Intel Core i5-10500T 8GB DDR4 RAM 1TB 7200 RPM SATA HDD 23.8&quot; FHD Display",
+     "reviews": 0,
+     "price": "KES 99,000"
+    }
+   ]
+  },
+  {
+   "title": "HP Laptops",
+   "cards": [
+    {
+     "discount": "-16%",
+     "img": "eupjplmd2qkcjn5zzbil.jpg",
+     "imgAlt": "ikkndjt1vpl9mqs6cdxy.jpg",
+     "name": "HP EliteBook 840 G7 10th Gen Intel Core i5-10310U Processor 8GB RAM 256GB SSD  Touch Screen 14&quot; FHD Display",
+     "reviews": 0,
+     "price": "KES 38,000"
+    },
+    {
+     "discount": "-11%",
+     "img": "oa0sjob6bmfl3q59uiep.jpg",
+     "imgAlt": "gakgtgdqlerqvxbs35m9.jpg",
+     "name": "HP EliteBook 830 G8 Core i5 11th Gen, 8GB RAM, 256GB SSD Touchscreen",
+     "reviews": 0,
+     "price": "KES 40,000"
+    },
+    {
+     "discount": "-17%",
+     "img": "q2fomvwhbs0k3c7fbnak.jpg",
+     "imgAlt": "mvuiq4suf37fykqixh3b.jpg",
+     "name": "HP EliteBook x360 1040 G6 Intel® Core™ i5-8365U 16GB 256GB SSD Touchscreen",
+     "reviews": 0,
+     "price": "KES 41,500"
+    },
+    {
+     "discount": "-9%",
+     "img": "c2yfzosncqole0vlfmgx.jpg",
+     "imgAlt": "ua84tstjkcdcvigjhysk.jpg",
+     "name": "HP EliteBook 1040 G8 x360 Intel Core i7 11th Gen 16GB RAM 512GB SSD 14 Inches Touchscreen Display",
+     "reviews": 0,
+     "price": "KES 60,000"
+    }
+   ]
+  },
+  {
+   "title": "Dell Laptops",
+   "cards": [
+    {
+     "discount": "-21%",
+     "img": "urt2ciuptqpukn96x70f.jpg",
+     "imgAlt": "g6d4eg9gsbgakswgaulf.jpg",
+     "name": "Dell Latitude 3120 2-in-1 Pentium N6000 8GB RAM 256GB SSD",
+     "reviews": 0,
+     "price": "KES 19,000"
+    },
+    {
+     "discount": "-19%",
+     "img": "g6d4eg9gsbgakswgaulf.jpg",
+     "imgAlt": "cygqhfcnf7zftbkfyav2.jpg",
+     "name": "Dell Latitude 7290 Intel Core i5-8350U 8GB RAM 256GB SSD 12.5 Inch HD Display",
+     "reviews": 0,
+     "price": "KES 25,000"
+    },
+    {
+     "discount": "-14%",
+     "img": "cygqhfcnf7zftbkfyav2.jpg",
+     "imgAlt": "c35moyfvc5ifjqu2d02r.jpg",
+     "name": "Dell Latitude 5400 Non- touch Laptop | Intel Core i7 8th Gen, 16GB, 512GB SSD",
+     "reviews": 0,
+     "price": "KES 30,000"
+    },
+    {
+     "discount": "-19%",
+     "img": "c35moyfvc5ifjqu2d02r.jpg",
+     "imgAlt": "",
+     "name": "DELL Latitude 7300 i7‑8665U 13.3″ FHD 16 GB 512 GB SSD Non-touch",
+     "reviews": 0,
+     "price": "KES 39,000"
+    }
+   ]
+  },
+  {
+   "title": "Lenovo Laptops",
+   "cards": [
+    {
+     "discount": "-17%",
+     "img": "fmn1o1wxftsw5xmmqxer.jpg",
+     "imgAlt": "vaqxrmjseq4q2l52ovq3.jpg",
+     "name": "Lenovo ThinkPad T480s Core i5 8th gen 8GB RAM 256GB SSD Non-Touch",
+     "reviews": 0,
+     "price": "KES 25,000"
+    },
+    {
+     "discount": "-17%",
+     "img": "vaqxrmjseq4q2l52ovq3.jpg",
+     "imgAlt": "airhknvy4slvejzszkrx.jpg",
+     "name": "Lenovo ThinkPad T480s i5 8th Gen 8GB 256GB SSD Touch 2gb graphics",
+     "reviews": 0,
+     "price": "KES 27,500"
+    },
+    {
+     "discount": "-12%",
+     "img": "airhknvy4slvejzszkrx.jpg",
+     "imgAlt": "eeqqfzfresnbm3ffzumy.jpg",
+     "name": "Lenovo ThinkPad T490s Core i5 8th Gen 8GB RAM 256GB SSD 14” Non- touch",
+     "reviews": 0,
+     "price": "KES 26,500"
+    },
+    {
+     "discount": "-18%",
+     "img": "eeqqfzfresnbm3ffzumy.jpg",
+     "imgAlt": "",
+     "name": "Lenovo ThinkPad T490s Core i5 8th Gen 8GB RAM 256GB SSD 14” Touch screen",
+     "reviews": 0,
+     "price": "KES 28,000"
+    }
+   ]
+  },
+  {
+   "title": "Apple Macbooks Laptops",
+   "cards": [
+    {
+     "discount": "-11%",
+     "img": "prpk5eo2pcfndmyykwyr.jpg",
+     "imgAlt": "w4acsi6cbuspo4xmdgah.jpg",
+     "name": "Apple MacBook Air 2015 Core i5 8GB RAM 256GB SSD",
+     "reviews": 0,
+     "price": "KES 25,000"
+    },
+    {
+     "discount": "-20%",
+     "img": "cacbgebqw76swj76urvh.jpg",
+     "imgAlt": "wpgobkph0u53t4nbvpdq.jpg",
+     "name": "APPLE MACBOOK AIR 2017 13' i5 8 GB RAM 256 GB SSD",
+     "reviews": 0,
+     "price": "KES 28,000"
+    },
+    {
+     "discount": "-16%",
+     "img": "ggm9wxq1rmg20q2va7mp.jpg",
+     "imgAlt": "gezny8ozhjftkuk7knls.jpg",
+     "name": "APPLE MACBOOK PRO 2012 i5 13'' 8 GB RAM 256GB SSD",
+     "reviews": 0,
+     "price": "KES 21,000"
+    }
+   ]
+  },
+  {
+   "title": "Monitors",
+   "cards": [
+    {
+     "discount": "-25%",
+     "img": "uzumjbg1j0sblnae2gt5.jpg",
+     "imgAlt": "gy1ytwuumqlenzwrkhx8.jpg",
+     "name": "MSI PRO MP341CQW 34&quot; UWQHD 100Hz Curved Monitor - White [PRO MP341CQW-OB]",
+     "reviews": 0,
+     "price": "KES 64,000"
+    },
+    {
+     "discount": "-13%",
+     "img": "rzalk4ubo7s4qsqejtzc.jpg",
+     "imgAlt": "rwg0roeo6k85obkiu0o1.jpg",
+     "name": "QSM 45&quot; 5K 120Hz Ultra-Wide Curved Monitor with Pop-Out Camera",
+     "reviews": 0,
+     "price": "KES 260,000"
+    },
+    {
+     "discount": "-7%",
+     "img": "uwfsx5gjohrur4e8hui8.jpg",
+     "imgAlt": "o5tlk1rmlezbyiltcys7.jpg",
+     "name": "DELL U4924DW UltraSharp LED display (49&quot;) 5120 x 1440 pixels 5K Ultra HD LCD Black, Silver",
+     "reviews": 0,
+     "price": "KES 187,000"
+    },
+    {
+     "discount": "-16%",
+     "img": "uohs21tzh1u8o1dczr6i.jpg",
+     "imgAlt": "",
+     "name": "Dell P2425H 23.8″ FHD Monitor",
+     "reviews": 0,
+     "price": "KES 32,000"
+    }
+   ]
+  },
+  {
+   "title": "Printers",
+   "cards": [
+    {
+     "discount": "-15%",
+     "img": "xpyqz6unbtc6md56vl6c.jpg",
+     "imgAlt": "fkrr079zkzfoeoxmiwhv.jpg",
+     "name": "Brother MFC-L3760CDW COLOR LASER PRINTER",
+     "reviews": 0,
+     "price": "KES 51,000"
+    },
+    {
+     "discount": "-13%",
+     "img": "fkrr079zkzfoeoxmiwhv.jpg",
+     "imgAlt": "hsqz5mnrps3jjcfnm0rk.jpg",
+     "name": "Brother Label Printer QL-820NWB Monochrome Thermal Label Printer",
+     "reviews": 0,
+     "price": "KES 43,500"
+    },
+    {
+     "discount": "-17%",
+     "img": "kcaqtj1g09zqyvn79emz.jpg",
+     "imgAlt": "osuwab4fdunsvuosvzdm.jpg",
+     "name": "Brother Label Printer QL-800 Monochrome Thermal Label Printer (USB) QL800ZV1",
+     "reviews": 0,
+     "price": "KES 25,000"
+    },
+    {
+     "discount": "-19%",
+     "img": "lnwvfdbsdptkm8v9nvxm.jpg",
+     "imgAlt": "en1e8ra5z5oj43tp3ur8.jpg",
+     "name": "Brother DCP-T530DW 3-in-1 Ink Tank Wireless Printer",
+     "reviews": 0,
+     "price": "KES 26,000"
+    }
+   ]
+  },
+  {
+   "title": "Watches",
+   "cards": [
+    {
+     "discount": "-21%",
+     "img": "n4s1jiastyvp0edfhrsr.jpg",
+     "imgAlt": "xrfurl6v91tdyh0h4mk1.jpg",
+     "name": "CURREN LADIES #9020",
+     "reviews": 0,
+     "price": "KES 2,600"
+    },
+    {
+     "discount": "-24%",
+     "img": "xnexdv1slcikcuvgnumc.jpg",
+     "imgAlt": "c3bcdtiaynel9wwkhvwt.jpg",
+     "name": "CASIO ILLUMINATOR",
+     "reviews": 0,
+     "price": "KES 2,500"
+    },
+    {
+     "discount": "-14%",
+     "img": "ncckpnhsiwbnpbuu3qdj.jpg",
+     "imgAlt": "hdvccdolfxnmumnfwabm.jpg",
+     "name": "CASIO G-SHOCK",
+     "reviews": 0,
+     "price": "KES 3,000"
+    },
+    {
+     "discount": "-19%",
+     "img": "vjy910fanf7qzf1lpvkc.jpg",
+     "imgAlt": "sknwquoco72envlocsup.jpg",
+     "name": "CURREN LADIES #9051",
+     "reviews": 0,
+     "price": "KES 2,600"
+    }
+   ]
+  },
+  {
+   "title": "Laptop Bags &amp; Sleeves",
+   "cards": [
+    {
+     "discount": "-29%",
+     "img": "rfjdv6jntfuf1awljtvt.jpg",
+     "imgAlt": "hfne6bi7ei39xdhjecfd.jpg",
+     "name": "HP Bag 16&quot; 18L Prelude Laptop Backpack 100% recycled plastic water-resistant top zip closure compatible 16&quot; 15.6&quot; 14&quot; 13.3&quot; 12&quot; Notebook",
+     "reviews": 0,
+     "price": "KES 2,500"
+    },
+    {
+     "discount": "-17%",
+     "img": "hfne6bi7ei39xdhjecfd.jpg",
+     "imgAlt": "qhswpsmugcfs8bbarsx1.jpg",
+     "name": "Lenovo 15.6&quot; Laptop Bag – Water-Resistant, Lightweight &amp; Organized Business Backpack",
+     "reviews": 0,
+     "price": "KES 2,500"
+    },
+    {
+     "discount": "-20%",
+     "img": "nygvselfw7fb9oyaaa2v.jpg",
+     "imgAlt": "pfzitfxmorfyiksmun0e.jpg",
+     "name": "Anti Theft Waterproof Travel Backpack - Black",
+     "reviews": 0,
+     "price": "KES 2,000"
+    },
+    {
+     "discount": "-26%",
+     "img": "dafe23ekskeosuebcof8.jpg",
+     "imgAlt": "",
+     "name": "Biowang Anti-Theft Backpack",
+     "reviews": 0,
+     "price": "KES 4,050"
+    }
+   ]
+  },
+  {
+   "title": "Smartphones &amp; Tablets",
+   "cards": [
+    {
+     "discount": "-9%",
+     "img": "lb4jzi6wgpctl6euaalu.jpg",
+     "imgAlt": "q53quv6devcftjup9fsg.jpg",
+     "name": "Samsung Galaxy A36 Dual SIM 5G (6GB RAM, 128GB ROM)",
+     "reviews": 0,
+     "price": "KES 34,500"
+    },
+    {
+     "discount": "-5%",
+     "img": "q53quv6devcftjup9fsg.jpg",
+     "imgAlt": "hytefeksrchv9k3imdfq.jpg",
+     "name": "Samsung Galaxy A26 Dual SIM 5G (8GB RAM, 256GB)",
+     "reviews": 0,
+     "price": "KES 31,500"
+    },
+    {
+     "discount": "-5%",
+     "img": "hytefeksrchv9k3imdfq.jpg",
+     "imgAlt": "pmplr6nhhh9uhco9m6nr.jpg",
+     "name": "Samsung Galaxy A26 Dual SIM 5G (6GB RAM, 128GB)",
+     "reviews": 0,
+     "price": "KES 28,500"
+    },
+    {
+     "discount": "-18%",
+     "img": "pmplr6nhhh9uhco9m6nr.jpg",
+     "imgAlt": "n2qq46ctldtlonbcai9x.jpg",
+     "name": "Samsung Galaxy A17 4G (128GB)",
+     "reviews": 0,
+     "price": "KES 20,500"
+    }
+   ]
+  }
+ ],
+ "catalog": [
+  {
+   "discount": "-9%",
+   "img": "lb4jzi6wgpctl6euaalu.jpg",
+   "imgAlt": "q53quv6devcftjup9fsg.jpg",
+   "name": "Samsung Galaxy A36 Dual SIM 5G (6GB RAM, 128GB ROM)",
+   "reviews": 0,
+   "price": "KES 34,500"
+  },
+  {
+   "discount": "-5%",
+   "img": "q53quv6devcftjup9fsg.jpg",
+   "imgAlt": "hytefeksrchv9k3imdfq.jpg",
+   "name": "Samsung Galaxy A26 Dual SIM 5G (8GB RAM, 256GB)",
+   "reviews": 0,
+   "price": "KES 31,500"
+  },
+  {
+   "discount": "-5%",
+   "img": "hytefeksrchv9k3imdfq.jpg",
+   "imgAlt": "pmplr6nhhh9uhco9m6nr.jpg",
+   "name": "Samsung Galaxy A26 Dual SIM 5G (6GB RAM, 128GB)",
+   "reviews": 0,
+   "price": "KES 28,500"
+  },
+  {
+   "discount": "-18%",
+   "img": "pmplr6nhhh9uhco9m6nr.jpg",
+   "imgAlt": "wquecxyd1cnjwppn0yg6.jpg",
+   "name": "Samsung Galaxy A17 4G (128GB)",
+   "reviews": 0,
+   "price": "KES 20,500"
+  },
+  {
+   "discount": "-20%",
+   "img": "wquecxyd1cnjwppn0yg6.jpg",
+   "imgAlt": "n6wmz9qkoeifl2fg18nd.jpg",
+   "name": "Samsung Galaxy A16 4G (128GB/4GB , 6.7'',",
+   "reviews": 0,
+   "price": "KES 19,200"
+  },
+  {
+   "discount": "-15%",
+   "img": "n6wmz9qkoeifl2fg18nd.jpg",
+   "imgAlt": "v4bzzkqiqsvaegtztblx.jpg",
+   "name": "Samsung Galaxy A06 Dual SIM (4GB RAM, 128GB)",
+   "reviews": 0,
+   "price": "KES 14,500"
+  },
+  {
+   "discount": "-8%",
+   "img": "v4bzzkqiqsvaegtztblx.jpg",
+   "imgAlt": "uzumjbg1j0sblnae2gt5.jpg",
+   "name": "Samsung Galaxy A07 Dual SIM 4G (4GB RAM, 128GB) ",
+   "reviews": 0,
+   "price": "KES 16,500"
+  },
+  {
+   "discount": "-25%",
+   "img": "uzumjbg1j0sblnae2gt5.jpg",
+   "imgAlt": "rzalk4ubo7s4qsqejtzc.jpg",
+   "name": "MSI PRO MP341CQW 34&quot; UWQHD 100Hz Curved Monitor - White [PRO MP341CQW-OB]",
+   "reviews": 0,
+   "price": "KES 64,000"
+  },
+  {
+   "discount": "-13%",
+   "img": "rzalk4ubo7s4qsqejtzc.jpg",
+   "imgAlt": "ff1banhqnjtzmx59ldxc.jpg",
+   "name": "QSM 45&quot; 5K 120Hz Ultra-Wide Curved Monitor with Pop-Out Camera",
+   "reviews": 0,
+   "price": "KES 260,000"
+  },
+  {
+   "discount": "-16%",
+   "img": "ff1banhqnjtzmx59ldxc.jpg",
+   "imgAlt": "tz4svq2b4r2ayqapwpov.jpg",
+   "name": "Samsung Galaxy S22 128GB",
+   "reviews": 0,
+   "price": "KES 38,000"
+  },
+  {
+   "discount": "-10%",
+   "img": "tz4svq2b4r2ayqapwpov.jpg",
+   "imgAlt": "uwfsx5gjohrur4e8hui8.jpg",
+   "name": "Samsung Galaxy Note 20 Ultra (12/256GB)",
+   "reviews": 0,
+   "price": "KES 46,000"
+  },
+  {
+   "discount": "-7%",
+   "img": "uwfsx5gjohrur4e8hui8.jpg",
+   "imgAlt": "rfjdv6jntfuf1awljtvt.jpg",
+   "name": "DELL U4924DW UltraSharp LED display (49&quot;) 5120 x 1440 pixels 5K Ultra HD LCD Black, Silver",
+   "reviews": 0,
+   "price": "KES 187,000"
+  },
+  {
+   "discount": "-29%",
+   "img": "rfjdv6jntfuf1awljtvt.jpg",
+   "imgAlt": "hfne6bi7ei39xdhjecfd.jpg",
+   "name": "HP Bag 16&quot; 18L Prelude Laptop Backpack 100% recycled plastic water-resistant top zip closure compatible 16&quot; 15.6&quot; 14&quot; 13.3&quot; 12&quot; Notebook",
+   "reviews": 0,
+   "price": "KES 2,500"
+  },
+  {
+   "discount": "-17%",
+   "img": "hfne6bi7ei39xdhjecfd.jpg",
+   "imgAlt": "nygvselfw7fb9oyaaa2v.jpg",
+   "name": "Lenovo 15.6&quot; Laptop Bag – Water-Resistant, Lightweight &amp; Organized Business Backpack",
+   "reviews": 0,
+   "price": "KES 2,500"
+  },
+  {
+   "discount": "-20%",
+   "img": "nygvselfw7fb9oyaaa2v.jpg",
+   "imgAlt": "dafe23ekskeosuebcof8.jpg",
+   "name": "Anti Theft Waterproof Travel Backpack - Black",
+   "reviews": 0,
+   "price": "KES 2,000"
+  },
+  {
+   "discount": "-26%",
+   "img": "dafe23ekskeosuebcof8.jpg",
+   "imgAlt": "xrqdpkn0kh5mwlnxkylx.jpg",
+   "name": "Biowang Anti-Theft Backpack",
+   "reviews": 0,
+   "price": "KES 4,050"
+  },
+  {
+   "discount": "-27%",
+   "img": "xrqdpkn0kh5mwlnxkylx.jpg",
+   "imgAlt": "vke4y71tdrolsfmf7nop.jpg",
+   "name": "Biowang Anti-Theft Backpack",
+   "reviews": 0,
+   "price": "KES 4,000"
+  },
+  {
+   "discount": "-20%",
+   "img": "vke4y71tdrolsfmf7nop.jpg",
+   "imgAlt": "doskpvjserrefd13i23b.jpg",
+   "name": "Biowang laptop side bag",
+   "reviews": 0,
+   "price": "KES 2,000"
+  },
+  {
+   "discount": "-17%",
+   "img": "doskpvjserrefd13i23b.jpg",
+   "imgAlt": "ezfbz9wgc5mmloc3ntod.png",
+   "name": "Samsung Galaxy Z Fold 3 5G Ex-UK",
+   "reviews": 0,
+   "price": "KES 50,000"
+  },
+  {
+   "discount": "-6%",
+   "img": "ezfbz9wgc5mmloc3ntod.png",
+   "imgAlt": "yswgsxllk2fs2se3yrgk.png",
+   "name": "SAMSUNG Galaxy Z Fold4 5G (12GB RAM, 512GB) ex uk",
+   "reviews": 0,
+   "price": "KES 66,000"
+  },
+  {
+   "discount": "-9%",
+   "img": "ezfbz9wgc5mmloc3ntod.png",
+   "imgAlt": "yswgsxllk2fs2se3yrgk.png",
+   "name": "SAMSUNG Galaxy Z Fold4 5G (12GB RAM, 256GB)ex uk,",
+   "reviews": 0,
+   "price": "KES 62,000"
+  },
+  {
+   "discount": "-9%",
+   "img": "ezfbz9wgc5mmloc3ntod.png",
+   "imgAlt": "yswgsxllk2fs2se3yrgk.png",
+   "name": "Samsung Galaxy Z Fold 6 5G Ex UK",
+   "reviews": 0,
+   "price": "KES 100,000"
+  },
+  {
+   "discount": "-10%",
+   "img": "yswgsxllk2fs2se3yrgk.png",
+   "imgAlt": "kbrebg0q1qiuuu79xkfz.jpg",
+   "name": "Samsung Galaxy Z Fold 6 5G Ex UK Used",
+   "reviews": 0,
+   "price": "KES 104,000"
+  },
+  {
+   "discount": "-18%",
+   "img": "kbrebg0q1qiuuu79xkfz.jpg",
+   "imgAlt": "yfznu2ifnkvspzo3ug68.jpg",
+   "name": "Redmi Note 15 Pro + 5G 12GB RAM 512GB ROM",
+   "reviews": 0,
+   "price": "KES 60,500"
+  },
+  {
+   "discount": "-11%",
+   "img": "yfznu2ifnkvspzo3ug68.jpg",
+   "imgAlt": "qim6oxx8rb7ulf51bysk.jpg",
+   "name": "Redmi Note 15 4G",
+   "reviews": 0,
+   "price": "KES 29,500"
+  },
+  {
+   "discount": "-10%",
+   "img": "qim6oxx8rb7ulf51bysk.jpg",
+   "imgAlt": "faf7cg2astfbnliekirc.jpg",
+   "name": "Redmi Note 15 4G",
+   "reviews": 0,
+   "price": "KES 27,000"
+  },
+  {
+   "discount": "-13%",
+   "img": "faf7cg2astfbnliekirc.jpg",
+   "imgAlt": "fhoej5hipwy0z8nqw6qy.png",
+   "name": "Redmi 15C 4G",
+   "reviews": 0,
+   "price": "KES 19,500"
+  },
+  {
+   "discount": "-9%",
+   "img": "fhoej5hipwy0z8nqw6qy.png",
+   "imgAlt": "sfkyaqe9dbj3r9fuctas.png",
+   "name": "SAMSUNG Galaxy A06 4G LTE (128GB + 4GB)  SM-A065M/DS 6.7&quot; Dual Sim 50MP Dual Cam + (Wall 25W Dual Port Bundle)",
+   "reviews": 0,
+   "price": "KES 14,500"
+  },
+  {
+   "discount": "-4%",
+   "img": "sfkyaqe9dbj3r9fuctas.png",
+   "imgAlt": "nkhlrlcjd2vbnhj8lhkv.jpg",
+   "name": "SAMSUNG Galaxy S25 Ultra 5 G(12GB RAM,512GB ROM",
+   "reviews": 0,
+   "price": "KES 120,000"
+  },
+  {
+   "discount": "-13%",
+   "img": "nkhlrlcjd2vbnhj8lhkv.jpg",
+   "imgAlt": "li1dzc4srtjrf4mmug4p.jpg",
+   "name": "Samsung Galaxy S22 Plus 4G Ex-UK Used",
+   "reviews": 0,
+   "price": "KES 35,000"
+  },
+  {
+   "discount": "-25%",
+   "img": "li1dzc4srtjrf4mmug4p.jpg",
+   "imgAlt": "fez2ba1igvswlrfs5w5s.jpg",
+   "name": "Samsung Galaxy S21 Ultra (Ex-UK Used)",
+   "reviews": 0,
+   "price": "KES 42,000"
+  },
+  {
+   "discount": "-21%",
+   "img": "fez2ba1igvswlrfs5w5s.jpg",
+   "imgAlt": "h2moczh1nuaooqi0xzez.jpg",
+   "name": "Samsung S21 plus",
+   "reviews": 0,
+   "price": "KES 30,000"
+  },
+  {
+   "discount": "-17%",
+   "img": "h2moczh1nuaooqi0xzez.jpg",
+   "imgAlt": "r0twimd8rv5tzh9wr8es.jpg",
+   "name": "Samsung S21 5g",
+   "reviews": 0,
+   "price": "KES 29,000"
+  },
+  {
+   "discount": "-6%",
+   "img": "r0twimd8rv5tzh9wr8es.jpg",
+   "imgAlt": "eyf8oqx4svvjr0jmw6p5.jpg",
+   "name": "Tecno Camon 50 Pro 4G",
+   "reviews": 0,
+   "price": "KES 42,500"
+  },
+  {
+   "discount": "-15%",
+   "img": "eyf8oqx4svvjr0jmw6p5.jpg",
+   "imgAlt": "kkh5cm3ueivsuzxduuxn.jpg",
+   "name": "Tecno Camon 50",
+   "reviews": 0,
+   "price": "KES 34,000"
+  },
+  {
+   "discount": "-20%",
+   "img": "kkh5cm3ueivsuzxduuxn.jpg",
+   "imgAlt": "y12kfmlmvxaar3d4sss3.jpg",
+   "name": "Tecno Spark 50 (8GB/256GB)",
+   "reviews": 0,
+   "price": "KES 24,000"
+  },
+  {
+   "discount": "-19%",
+   "img": "y12kfmlmvxaar3d4sss3.jpg",
+   "imgAlt": "lpqkcoz2ooihvxytk8rs.png",
+   "name": "Tecno Spark 50 4G",
+   "reviews": 0,
+   "price": "KES 19,500"
+  },
+  {
+   "discount": "-6%",
+   "img": "lpqkcoz2ooihvxytk8rs.png",
+   "imgAlt": "xpyqz6unbtc6md56vl6c.jpg",
+   "name": "Samsung Galaxy S26 Ultra 5G",
+   "reviews": 0,
+   "price": "KES 151,000"
+  },
+  {
+   "discount": "-15%",
+   "img": "xpyqz6unbtc6md56vl6c.jpg",
+   "imgAlt": "fkrr079zkzfoeoxmiwhv.jpg",
+   "name": "Brother MFC-L3760CDW COLOR LASER PRINTER",
+   "reviews": 0,
+   "price": "KES 51,000"
+  },
+  {
+   "discount": "-13%",
+   "img": "fkrr079zkzfoeoxmiwhv.jpg",
+   "imgAlt": "kcaqtj1g09zqyvn79emz.jpg",
+   "name": "Brother Label Printer QL-820NWB Monochrome Thermal Label Printer",
+   "reviews": 0,
+   "price": "KES 43,500"
+  },
+  {
+   "discount": "-17%",
+   "img": "kcaqtj1g09zqyvn79emz.jpg",
+   "imgAlt": "eupjplmd2qkcjn5zzbil.jpg",
+   "name": "Brother Label Printer QL-800 Monochrome Thermal Label Printer (USB) QL800ZV1",
+   "reviews": 0,
+   "price": "KES 25,000"
+  },
+  {
+   "discount": "-16%",
+   "img": "eupjplmd2qkcjn5zzbil.jpg",
+   "imgAlt": "oa0sjob6bmfl3q59uiep.jpg",
+   "name": "HP EliteBook 840 G7 10th Gen Intel Core i5-10310U Processor 8GB RAM 256GB SSD  Touch Screen 14&quot; FHD Display",
+   "reviews": 0,
+   "price": "KES 38,000"
+  },
+  {
+   "discount": "-11%",
+   "img": "oa0sjob6bmfl3q59uiep.jpg",
+   "imgAlt": "q2fomvwhbs0k3c7fbnak.jpg",
+   "name": "HP EliteBook 830 G8 Core i5 11th Gen, 8GB RAM, 256GB SSD Touchscreen",
+   "reviews": 0,
+   "price": "KES 40,000"
+  },
+  {
+   "discount": "-17%",
+   "img": "q2fomvwhbs0k3c7fbnak.jpg",
+   "imgAlt": "c2yfzosncqole0vlfmgx.jpg",
+   "name": "HP EliteBook x360 1040 G6 Intel® Core™ i5-8365U 16GB 256GB SSD Touchscreen",
+   "reviews": 0,
+   "price": "KES 41,500"
+  },
+  {
+   "discount": "-9%",
+   "img": "c2yfzosncqole0vlfmgx.jpg",
+   "imgAlt": "lnwvfdbsdptkm8v9nvxm.jpg",
+   "name": "HP EliteBook 1040 G8 x360 Intel Core i7 11th Gen 16GB RAM 512GB SSD 14 Inches Touchscreen Display",
+   "reviews": 0,
+   "price": "KES 60,000"
+  },
+  {
+   "discount": "-19%",
+   "img": "lnwvfdbsdptkm8v9nvxm.jpg",
+   "imgAlt": "olr1561w8mc5f0cbjdpz.jpg",
+   "name": "Brother DCP-T530DW 3-in-1 Ink Tank Wireless Printer",
+   "reviews": 0,
+   "price": "KES 26,000"
+  },
+  {
+   "discount": "-27%",
+   "img": "olr1561w8mc5f0cbjdpz.jpg",
+   "imgAlt": "mebgemimc5n3hyvyhjbx.jpg",
+   "name": "Brother DCP-T420W wireless all in one inkjet printer",
+   "reviews": 0,
+   "price": "KES 20,500"
+  },
+  {
+   "discount": "-10%",
+   "img": "mebgemimc5n3hyvyhjbx.jpg",
+   "imgAlt": "co6rc1x8nmdxlftpx3yv.jpg",
+   "name": "Brother DCP-T220 all-in one ink tank printer",
+   "reviews": 0,
+   "price": "KES 18,500"
+  },
+  {
+   "discount": "-9%",
+   "img": "co6rc1x8nmdxlftpx3yv.jpg",
+   "imgAlt": "lue64g66z69cf9fcoszc.jpg",
+   "name": "Brother DCP-L2540DW Mono Laser Printer",
+   "reviews": 0,
+   "price": "KES 32,000"
+  },
+  {
+   "discount": "-31%",
+   "img": "lue64g66z69cf9fcoszc.jpg",
+   "imgAlt": "q28uxlkrrkuv6mte5umw.jpg",
+   "name": "Original Lenovo Usb Type C Charger 20V, 45W, 2.25A",
+   "reviews": 0,
+   "price": "KES 4,500"
+  },
+  {
+   "discount": "-18%",
+   "img": "q28uxlkrrkuv6mte5umw.jpg",
+   "imgAlt": "lwbgp1dhbcmbjca6kfrk.jpg",
+   "name": "Original Lenovo 20V 2.25A 45W small pin Charger",
+   "reviews": 0,
+   "price": "KES 4,500"
+  },
+  {
+   "discount": "-10%",
+   "img": "lwbgp1dhbcmbjca6kfrk.jpg",
+   "imgAlt": "tcm30cen3analkfbhhxk.jpg",
+   "name": "Original Lenovo yoga 20V 3.25A 65W Charger",
+   "reviews": 0,
+   "price": "KES 4,500"
+  },
+  {
+   "discount": "-29%",
+   "img": "tcm30cen3analkfbhhxk.jpg",
+   "imgAlt": "rw5qcfjsji6j1ti3mqbs.jpg",
+   "name": "Original Lenovo 20V 3.25A 4.0*1.7mm 65W Small pin Charger",
+   "reviews": 0,
+   "price": "KES 2,500"
+  },
+  {
+   "discount": "-36%",
+   "img": "rw5qcfjsji6j1ti3mqbs.jpg",
+   "imgAlt": "gtvkqg0ugmqmxbmwld3v.jpg",
+   "name": "Original Lenovo 20V 3.25A USB Pin 65W Charger",
+   "reviews": 0,
+   "price": "KES 3,500"
+  },
+  {
+   "discount": "-26%",
+   "img": "gtvkqg0ugmqmxbmwld3v.jpg",
+   "imgAlt": "rh2igbj9d8q523tjijy6.jpg",
+   "name": "Original Lenovo 20V 4.75A TypeC Charger",
+   "reviews": 0,
+   "price": "KES 7,000"
+  },
+  {
+   "discount": "-25%",
+   "img": "rh2igbj9d8q523tjijy6.jpg",
+   "imgAlt": "g7hm3nh8ailuejammve3.jpg",
+   "name": "Lenovo USB Charger 19.5V, 6.15A,120W",
+   "reviews": 0,
+   "price": "KES 7,500"
+  },
+  {
+   "discount": "-27%",
+   "img": "g7hm3nh8ailuejammve3.jpg",
+   "imgAlt": "v3rstecyfr5qlrrr20xh.jpg",
+   "name": "Original Lenovo 20V 6A 120W Charger",
+   "reviews": 0,
+   "price": "KES 5,500"
+  },
+  {
+   "discount": "-17%",
+   "img": "v3rstecyfr5qlrrr20xh.jpg",
+   "imgAlt": "zoas1zhrgack4huq6zmw.jpg",
+   "name": "Lenovo 20V 6.75A USB Pin 135W Charger",
+   "reviews": 0,
+   "price": "KES 7,500"
+  },
+  {
+   "discount": "-15%",
+   "img": "zoas1zhrgack4huq6zmw.jpg",
+   "imgAlt": "e9dxmkpnucmtzz7peooh.jpg",
+   "name": "Original Lenovo Charger 135W, 20V, 6.75A New USB Pin",
+   "reviews": 0,
+   "price": "KES 8,500"
+  },
+  {
+   "discount": "-21%",
+   "img": "e9dxmkpnucmtzz7peooh.jpg",
+   "imgAlt": "riozaej8a5p0tolhwrgn.jpg",
+   "name": "Original Lenovo 20V 8.5A 170W USB Charger",
+   "reviews": 0,
+   "price": "KES 7,500"
+  },
+  {
+   "discount": "-25%",
+   "img": "riozaej8a5p0tolhwrgn.jpg",
+   "imgAlt": "dautwzldevovdtaymbm8.jpg",
+   "name": "Original Lenovo 20V 8.5A 170W new usb pin Charger",
+   "reviews": 0,
+   "price": "KES 7,500"
+  },
+  {
+   "discount": "-19%",
+   "img": "dautwzldevovdtaymbm8.jpg",
+   "imgAlt": "v7yvhwebyqm9istyuvzw.jpg",
+   "name": "Original Lenovo 20V 11.5A 230W new Charger",
+   "reviews": 0,
+   "price": "KES 10,500"
+  },
+  {
+   "discount": "-19%",
+   "img": "v7yvhwebyqm9istyuvzw.jpg",
+   "imgAlt": "nd9oqwsdu3lrclxxssaj.jpg",
+   "name": "Original Lenovo 20V 11.5A 230W usb Charger",
+   "reviews": 0,
+   "price": "KES 8,500"
+  },
+  {
+   "discount": "-13%",
+   "img": "nd9oqwsdu3lrclxxssaj.jpg",
+   "imgAlt": "vqnupnpg1h31ij3ks6fn.jpg",
+   "name": "Original Lenovo Charger 300W, 20V, 15A USB PIN",
+   "reviews": 0,
+   "price": "KES 10,500"
+  },
+  {
+   "discount": "-30%",
+   "img": "vqnupnpg1h31ij3ks6fn.jpg",
+   "imgAlt": "m4rpdpnlgtkqljyz2fby.jpg",
+   "name": "Original Lenovo 20V 2.25A 45W small pin Charger",
+   "reviews": 0,
+   "price": "KES 3,500"
+  },
+  {
+   "discount": "-22%",
+   "img": "m4rpdpnlgtkqljyz2fby.jpg",
+   "imgAlt": "hbso2nqh4ioknqq02gbb.jpg",
+   "name": "Original Lenovo 20V 3.25A 65W Charger",
+   "reviews": 0,
+   "price": "KES 3,500"
+  },
+  {
+   "discount": "-25%",
+   "img": "hbso2nqh4ioknqq02gbb.jpg",
+   "imgAlt": "h36bjmha5birha0krexq.jpg",
+   "name": "Original Lenovo 20V 3.25A 65W New Type C 65W Charger Charger",
+   "reviews": 0,
+   "price": "KES 4,500"
+  },
+  {
+   "discount": "-15%",
+   "img": "h36bjmha5birha0krexq.jpg",
+   "imgAlt": "utwcdtidln2su6fynvnq.jpg",
+   "name": "Original Dell 20V 4.5A 90W USB Type C Charger",
+   "reviews": 0,
+   "price": "KES 5,500"
+  },
+  {
+   "discount": "-33%",
+   "img": "utwcdtidln2su6fynvnq.jpg",
+   "imgAlt": "wrmdvsni5hdjf6cey6dg.jpg",
+   "name": "Original Dell 19.5V 4.62A 90W 7.4*5.0mm Charger",
+   "reviews": 0,
+   "price": "KES 3,000"
+  },
+  {
+   "discount": "-36%",
+   "img": "wrmdvsni5hdjf6cey6dg.jpg",
+   "imgAlt": "ege9udq7cy6nrbpfcc34.jpg",
+   "name": "Original Dell 90W (19.5V 4.62A) 4.5*3.0mm Charger",
+   "reviews": 0,
+   "price": "KES 3,500"
+  },
+  {
+   "discount": "-27%",
+   "img": "ege9udq7cy6nrbpfcc34.jpg",
+   "imgAlt": "bddmgxtsrq2n4j6ka126.jpg",
+   "name": "Original Dell 20V 6.5A 130W USB Type C Charger",
+   "reviews": 0,
+   "price": "KES 5,500"
+  },
+  {
+   "discount": "-15%",
+   "img": "bddmgxtsrq2n4j6ka126.jpg",
+   "imgAlt": "vdbfwpnbyjoesgukega5.jpg",
+   "name": "Original Dell 19.5V 6.7A 130W 7.4*5.0mm Charger",
+   "reviews": 0,
+   "price": "KES 5,500"
+  },
+  {
+   "discount": "-15%",
+   "img": "vdbfwpnbyjoesgukega5.jpg",
+   "imgAlt": "qsyqqaegkwjhbhmejuyy.jpg",
+   "name": "Original Dell 19.5V 6.7A 130W 4.5*3.0 Charger",
+   "reviews": 0,
+   "price": "KES 5,500"
+  },
+  {
+   "discount": "-24%",
+   "img": "qsyqqaegkwjhbhmejuyy.jpg",
+   "imgAlt": "tiscnkpc8pmdcacvlxmc.jpg",
+   "name": "Original Dell 150W (19.5V 7.7A) Big Pin Charger",
+   "reviews": 0,
+   "price": "KES 6,500"
+  },
+  {
+   "discount": "-17%",
+   "img": "tiscnkpc8pmdcacvlxmc.jpg",
+   "imgAlt": "ctnt9szqtmkbvlkehzvq.jpg",
+   "name": "Original Dell 19.5V Oval 240W Charger",
+   "reviews": 0,
+   "price": "KES 7,500"
+  },
+  {
+   "discount": "-25%",
+   "img": "ctnt9szqtmkbvlkehzvq.jpg",
+   "imgAlt": "vwvdvdp3un6lgwpgivdo.jpg",
+   "name": "Original Dell 19.5V, 3.34A, 65W 7.4*5.0mm Charger",
+   "reviews": 0,
+   "price": "KES 4,500"
+  },
+  {
+   "discount": "-25%",
+   "img": "vwvdvdp3un6lgwpgivdo.jpg",
+   "imgAlt": "z6synegshqktinkjujvd.jpg",
+   "name": "Original Dell 19.5V 3.34A (4.5*3.0mm) 65W Charger",
+   "reviews": 0,
+   "price": "KES 4,500"
+  },
+  {
+   "discount": "-20%",
+   "img": "z6synegshqktinkjujvd.jpg",
+   "imgAlt": "fllxwg4ymefoilgd2qhc.jpg",
+   "name": "Original HP 200W Blue Pin Charger",
+   "reviews": 0,
+   "price": "KES 8,000"
+  },
+  {
+   "discount": "-25%",
+   "img": "fllxwg4ymefoilgd2qhc.jpg",
+   "imgAlt": "m9ingml15mwxx8idgg74.jpg",
+   "name": "HP 230W, 19.5V Big Pin 11.8A 7.4*5.0mm charger",
+   "reviews": 0,
+   "price": "KES 7,500"
+  },
+  {
+   "discount": "-25%",
+   "img": "m9ingml15mwxx8idgg74.jpg",
+   "imgAlt": "ez14cjeljjkpqveofkif.jpg",
+   "name": "HP 19.5V 7.7A 4.5*3.0mm 150 W blue pin Charger",
+   "reviews": 0,
+   "price": "KES 7,500"
+  },
+  {
+   "discount": "-19%",
+   "img": "ez14cjeljjkpqveofkif.jpg",
+   "imgAlt": "njnw96smizbb9qgqk0lt.jpg",
+   "name": "HP 19.5V 6.15A 4.5*3.0mm 120W Blue Pin Charger",
+   "reviews": 0,
+   "price": "KES 6,500"
+  },
+  {
+   "discount": "-21%",
+   "img": "njnw96smizbb9qgqk0lt.jpg",
+   "imgAlt": "aznbujgv2iqskogecsed.jpg",
+   "name": " Original HP 20V 4.5A Oval 4.5*3.0mm 90W blue pin charger",
+   "reviews": 0,
+   "price": "KES 5,500"
+  },
+  {
+   "discount": "-23%",
+   "img": "aznbujgv2iqskogecsed.jpg",
+   "imgAlt": "n0kdwabttvvw9hqonvmk.jpg",
+   "name": "Original HP Type C 20V 3.25A 65W charger",
+   "reviews": 0,
+   "price": "KES 5,000"
+  },
+  {
+   "discount": "-23%",
+   "img": "n0kdwabttvvw9hqonvmk.jpg",
+   "imgAlt": "yi7fxlwjhrozkmrnkrze.jpg",
+   "name": "HP 20V 3.25A square Type C 65 W Charger",
+   "reviews": 0,
+   "price": "KES 5,000"
+  },
+  {
+   "discount": "-22%",
+   "img": "yi7fxlwjhrozkmrnkrze.jpg",
+   "imgAlt": "qo1zir4pmpmoeak0it90.jpg",
+   "name": "HP 20V 3.25A Type C 65W Charger",
+   "reviews": 0,
+   "price": "KES 3,500"
+  },
+  {
+   "discount": "-17%",
+   "img": "qo1zir4pmpmoeak0it90.jpg",
+   "imgAlt": "v4pw2xsp3veeymi5ukuz.jpg",
+   "name": "HP 19V 4.74A 7.4*5.0mm 90W big pin Charger",
+   "reviews": 0,
+   "price": "KES 2,500"
+  },
+  {
+   "discount": "-17%",
+   "img": "v4pw2xsp3veeymi5ukuz.jpg",
+   "imgAlt": "ybqcmz9iyi4pqwvjinjy.jpg",
+   "name": "Original HP Laptop Charger 19.5V 2.31A 45W Blue Pin",
+   "reviews": 0,
+   "price": "KES 2,500"
+  },
+  {
+   "discount": "-33%",
+   "img": "ybqcmz9iyi4pqwvjinjy.jpg",
+   "imgAlt": "tavxnnvoscx2f3c2sjdu.jpg",
+   "name": "HP 19.5V 3.33A 7.4*5.0 65W Big Pin Charger ",
+   "reviews": 0,
+   "price": "KES 1,999"
+  },
+  {
+   "discount": "-24%",
+   "img": "tavxnnvoscx2f3c2sjdu.jpg",
+   "imgAlt": "mbcwgyd8du6epmlhhpym.jpg",
+   "name": "Original Hp Blue pin charger",
+   "reviews": 0,
+   "price": "KES 1,900"
+  },
+  {
+   "discount": "-24%",
+   "img": "mbcwgyd8du6epmlhhpym.jpg",
+   "imgAlt": "mjurkebmfusbxtbhthek.jpg",
+   "name": "Ponasoo laptop backpack",
+   "reviews": 0,
+   "price": "KES 2,050"
+  },
+  {
+   "discount": "-20%",
+   "img": "mjurkebmfusbxtbhthek.jpg",
+   "imgAlt": "tmupxpzlwyoqelvz1lwm.jpg",
+   "name": "Ponasoo 14&quot; Laptop backpack",
+   "reviews": 0,
+   "price": "KES 2,000"
+  },
+  {
+   "discount": "-20%",
+   "img": "tmupxpzlwyoqelvz1lwm.jpg",
+   "imgAlt": "e6bo7h6n5ea4ojvm0iam.png",
+   "name": "Xiaomi Wireless Mouse Lite 2 White GL",
+   "reviews": 0,
+   "price": "KES 1,600"
+  },
+  {
+   "discount": "-11%",
+   "img": "e6bo7h6n5ea4ojvm0iam.png",
+   "imgAlt": "au993guawiy7jbcagoaz.png",
+   "name": "Xiaomi Wireless Mouse Lite 2 Black GL",
+   "reviews": 0,
+   "price": "KES 1,600"
+  },
+  {
+   "discount": "-25%",
+   "img": "au993guawiy7jbcagoaz.png",
+   "imgAlt": "uqgd4a5tgjpthasy6wlg.jpg",
+   "name": "Rechargeable Bluetooth mouse",
+   "reviews": 0,
+   "price": "KES 600"
+  },
+  {
+   "discount": "-14%",
+   "img": "uqgd4a5tgjpthasy6wlg.jpg",
+   "imgAlt": "chsroivpbkpxgotzyg4h.jpg",
+   "name": "Rapoo Wireless Optical Mouse M10 Plus",
+   "reviews": 0,
+   "price": "KES 3,000"
+  },
+  {
+   "discount": "-25%",
+   "img": "chsroivpbkpxgotzyg4h.jpg",
+   "imgAlt": "w31cofba4fxemxjompsz.jpg",
+   "name": "Rapoo Wireless Optical Fabric Mouse M20",
+   "reviews": 0,
+   "price": "KES 3,000"
+  },
+  {
+   "discount": "-33%",
+   "img": "w31cofba4fxemxjompsz.jpg",
+   "imgAlt": "wcp6wcc7hkevw2po8zhg.jpg",
+   "name": "Rapoo Optical Mouse N200",
+   "reviews": 0,
+   "price": "KES 1,000"
+  },
+  {
+   "discount": "-10%",
+   "img": "wcp6wcc7hkevw2po8zhg.jpg",
+   "imgAlt": "isk3aqhnz6xewnybbgx5.jpg",
+   "name": "MI DUAL MODE WIRELESS MOUSE (WHITE)",
+   "reviews": 0,
+   "price": "KES 1,800"
+  },
+  {
+   "discount": "-20%",
+   "img": "isk3aqhnz6xewnybbgx5.jpg",
+   "imgAlt": "zgflffiplnkriqvpouek.jpg",
+   "name": "Logitech Wireless Mouse M190",
+   "reviews": 0,
+   "price": "KES 1,600"
+  },
+  {
+   "discount": "-20%",
+   "img": "zgflffiplnkriqvpouek.jpg",
+   "imgAlt": "",
+   "name": "Logitech Wireless Mouse M185",
+   "reviews": 0,
+   "price": "KES 2,000"
+  }
+ ]
+}
